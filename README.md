@@ -1,1 +1,1 @@
-This is hunterxgraves' first fit project! 
+This is hunterxgraves' first git project! 
